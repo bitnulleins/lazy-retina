@@ -1,6 +1,6 @@
 <img src="https://ps.w.org/lazy-retina/assets/banner-1544x500.png?rev=983098" style="width:100%">
 
-# Lazy Retina
+# Lazy Retina (no active support anymore)
 Lazy load retina (high DPI) sized images for WordPress (Plugin)
 
 ![Downloads](https://img.shields.io/wordpress/plugin/dm/lazy-retina) ![Active installs](https://img.shields.io/wordpress/plugin/installs/lazy-retina) ![Rating](https://img.shields.io/wordpress/plugin/stars/lazy-retina) 
@@ -15,6 +15,10 @@ Lazy Retina loads by default:
 
 *RETINA IMAGES: The Lazy Retina plugin automatically adds retina sizes to every (custom) image size. You’ve to regenerate already uploaded images.*
 
+# Installation
+
+Download lazy-retina.zip and upload it to your Wordpress.
+
 # Support in themes
 
 If you want to lazy load an image in themes please use the following code:
@@ -28,6 +32,4 @@ Under “Options” -> “Media” you can remove the default link to full image
 
 # Support
 
-Friendly questions about the widget I like to answer under [Support](https://wordpress.org/support/plugin/lazy-retina/).
-
-Full description and download on WordPress.org: https://wordpress.org/plugins/lazy-retina/.
+Since 09.01.2021 I don't maintain this plugin. Sorry.
