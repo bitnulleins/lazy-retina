@@ -3,7 +3,8 @@
 # Lazy Retina (no active support anymore)
 Lazy load retina (high DPI) sized images for WordPress (Plugin)
 
-![Downloads](https://img.shields.io/wordpress/plugin/dm/lazy-retina) ![Active installs](https://img.shields.io/wordpress/plugin/installs/lazy-retina) ![Rating](https://img.shields.io/wordpress/plugin/stars/lazy-retina) 
+⚠ **Since 09.01.2021 I don't maintain this plugin. Sorry.**
+
 
 Fast Retina Images (Lazy Load) boost your website performance and reduce the traffic because images outside of viewport (visible part of web page) won’t be loaded until the user scrolls to them. This lazy technique works with jQuery or zepto.js.
 
@@ -29,7 +30,3 @@ If you want to lazy load an image in themes please use the following code:
 # Settings
 
 Under “Options” -> “Media” you can remove the default link to full image path
-
-# Support
-
-Since 09.01.2021 I don't maintain this plugin. Sorry.
