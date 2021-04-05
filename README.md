@@ -18,7 +18,7 @@ Lazy Retina loads by default:
 
 # Installation
 
-Download lazy-retina.zip and upload it to your Wordpress.
+Download [lazy-retina.zip](https://github.com/bitnulleins/lazy-retina/archive/refs/heads/master.zip) and upload it to your Wordpress.
 
 # Support in themes
 
